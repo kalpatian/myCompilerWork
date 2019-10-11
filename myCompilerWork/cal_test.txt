@@ -1,0 +1,7 @@
+start;
+int b;
+float a;
+b = 5*2/3;
+a = (10.44*356+1.28) / 2 + 1024 * 1.6;
+write(a);
+write(b)`
